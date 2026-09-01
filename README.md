@@ -179,12 +179,6 @@ The project uses the following technologies:
 | Amazon EKS                                          | Managed Kubernetes control plane 
 | Amazon EC2                                          | EKS worker nodes 
 
-## Live Demonstration
-
-I also recorded a live demonstration showing the infrastructure deployment and the resulting AWS resources.
-
-**Live Demo:**  
-
 
 ## Deployment Evidence
 
@@ -741,7 +735,7 @@ A live video demonstration was also recorded during the project to provide addit
 
 # Live Demonstration:
 
-[Insert live demonstration video link here]
+[Live Demo](https://drive.google.com/file/d/1znZSAh6m0HOhe9eG-XiODJHoWOtX3EOu/view?usp=drive_link)
 
 The video complements the screenshots by showing the deployment and verification process rather than only presenting the final AWS console state.
 
